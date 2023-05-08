@@ -1,0 +1,33 @@
+{
+    "app_support": "Dəstək",
+    "app_help": "Yardım",
+    "app_chosen": "Seçilmişlər",
+    "app_login": "Giriş",
+    "app_all_ads": "Bütün elanlar",
+    "app_car_shop": "Avtosalonlar",
+    "app_accessory": "Ehtiyat hissələr və aksesuarlar",
+    "app_new_button": "Yeni elan",
+    "wip_announcement": "VIP ELANLAR",
+    "lates_announcement": "SON ELANLAR",
+    "app_dropdown_accessory": "Aksesuarlar",
+    "app_dropdown_audi": "Audi və video texnika",
+    "app_dropdown_auto": "Avtokosmetika və avtokimya",
+    "app_dropdown_reserve": "Ehtiyyat hissələr",
+    "app_dropdown_gps": "GPS naviqatorlar",
+    "app_dropdown_register": "Qeydiyyat nişanlari",
+    "app_dropdown_video": "Videoqeydiyyatçilar",
+    "app_dropdown_wheel": "Şinlər,disklər və təkərlər",
+    "app_dropdown_other": "Digər",
+    "app_helper_head_tittle": "Salam! Sizə necə kömək edə bilərik?",
+    "app_helper_left_head": "Populyar Suallar",
+    "app_helper_left_down": "Elanlar",
+    "app_helper_accordion_head": "Populyar Suallar",
+    "app_helper_accordion_questions1": "Elanım niyə dərc olunmadı?",
+    "app_helper_accordion_questions2": "Elana necə düzəliş edim?",
+    "app_helper_accordion_questions3": "Elanı necə yerləşdirim?",
+    "app_helper_accordion_answer1": "Çox güman ki, siz elan yerləşdirmə Qaydalarından hər hansısa birinə və ya bir neçəsinə əməl etməmisiniz. Səbəb daha ətraflı şəkildə elanı yerləşdirərkən qeyd etdiyiniz email ünvanına göndərilib. Həmçinin elanın dərc olunmama səbəbi ilə saytın tam (desktop) versiyasında Şəxsi kabinetdəki “Mənim elanlarım” “İmtina olunmuş” bölməsində; saytın mobil versiyasında Şəxsi kabinetdəki “İmtina olunmuş” bölməsində; tətbiqdə isə Şəxsi kabinetdəki “İmtina olunmuş” bölməsində tanış ola bilərsiniz.",
+    "app_helper_accordion_answer2":"Şəxsi kabinetdə düzəliş üçün 1:Şəxsi kabinetə daxil olun.2:Saytın tam versiyasındasınızsa,“Mənim elanlarım” səhifəsini açın, mobil versiyada və ya tətbiqdəsinizsə, növbəti addıma keçin.3:Saytın tam və ya mobil versiyasında “Saytda” bölməsini, tətbiqdə isə “Hazırda saytda” bölməsini seçin.4:Düzəliş etmək istədiyiniz elanın aşağısında Düzəliş et düyməsini görəcəksiniz. Onu sıxın.5:Lazım olan düzəlişləri etdikdən sonra Elanı yenilə düyməsini sıxın.",
+    "app_helper_accordion_answer3":"Ekranın aşağısındakı Yeni elan düyməsini sıxın. Açılan siyahılarda təqdim etdiyiniz nəqliyyat vasitəsinin aid olduğu markanı və modeli seçin. Növbəti səhifədə xanaları dolduraraq nəqliyyat vasitəsi barədə məlumatları qeyd edin. Nəzərə alın ki, bu məlumatları potensial alıcılar oxuyacaq. Elanı Şəxsi kabinetinizdən yerləşdirirsinizsə, Əlaqə məlumatları hissəsində profiliniz üçün təsdiqlənmiş telefon nömrəsi müvafiq xanaya doldurulacaq. Əgər elanı Şəxsi kabinetə daxil olmadan yerləşdirirsinizsə, onun yoxlamaya göndərilməsi üçün Əlaqə məlumatları hissəsində qeyd etdiyiniz telefon nömrəsini təsdiqləməlisiniz. Demək olar ki, hazırdır! Sadəcə Elanı əlavə et düyməsini sıxmaq qalır: Şəxsi kabinetdən yerləşdirirsinizsə, elan dərhal yoxlamaya göndəriləcək; daxil olmamısınızsa, elan telefon nömrənizi təsdiqlədikdən sonra yoxlamaya göndəriləcək və bütün qaydalara əməl olunduğu təqdirdə dərc olunacaq. Yoxlama adətən bir neçə dəqiqə çəkir, lakin proses uzana da bilər. Ona görə də elanınızı nəticələrdə axtarmadan öncə onu “Saytda” (tətbiqdə “Hazırda saytda) bölməsində açın: əgər elan hələ də “Gözləmədə” bölməsindədirsə, deməli, istifadəçilər axtarışda hələ təklifinizi görmür."
+
+}
+

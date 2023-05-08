@@ -1,0 +1,21 @@
+// import bootstrap link
+@import "~bootstrap/scss/bootstrap";
+
+// tailwind css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// components links
+@import "./Components//Layout/Navbar.scss";
+@import "./Components/Layout/Button.scss";
+@import "./Components/Layout/WipCard.scss";
+@import "./Components/Layout/ShopCard.scss";
+
+
+
+// pages
+@import "./Pages/Home.scss";
+@import "./Pages//Details.scss";
+@import "./Pages//CarShop.scss";
+@import"./Pages//HelperPage.scss"

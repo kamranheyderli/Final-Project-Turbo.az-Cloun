@@ -1,0 +1,94 @@
+.Product {
+    width: 229px;
+    box-shadow: 0 17px 34px 0 rgba(44, 39, 56, 0.04), 0 8px 17px 0 rgba(44, 39, 56, 0.02);
+    border-radius: 7px;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+
+    .product_top {
+        position: relative;
+
+        img {
+            width: 100%;
+            border-radius: 7px 7px 0px 0px;
+        }
+
+        .item_reverse {
+            position: absolute;
+            left: 15px;
+            top: 15px;
+            background-color: #76c81c;
+            width: 21px;
+            height: 21px;
+            border-radius: 50%;
+            color: white;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 20px;
+        }
+
+        .item_heart {
+            width: 25px;
+            height: 25px;
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            color: white;
+            font-size: 25px;
+        }
+
+        .item_new {
+            position: absolute;
+            left: 15px;
+            bottom: 30px;
+            width: 35px;
+            height: 15px;
+            background-color: rgb(57, 57, 228);
+            color: white;
+            font-size: 11px;
+            border-radius: 3px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .item_wip {
+            position: absolute;
+            right: 15px;
+            bottom: 30px;
+            width: 30px;
+            height: 20px;
+            background-color: white;
+            font-size: 15px;
+            border-radius: 3px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 4px;
+            color: red;
+        }
+
+
+    }
+
+    .product_bottom {
+        padding: 10px 10px;
+
+        .item_price {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .item_about {
+            word-spacing: 1px;
+        }
+
+        .item_place {
+            color:#8d94ad;
+            font-size: 13px;
+        }
+    }
+}

@@ -1,0 +1,149 @@
+.details__wrapper {
+    .container {
+        width: 1010px;
+        margin: 0 auto;
+
+        .details__header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-family: Arial, Helvetica, sans-serif;
+
+            .details__title {
+                h2 {
+                    font-size: 25px;
+                    font-weight: 700;
+                    line-height: 29px;
+                    color: #212c3a;
+                }
+            }
+
+            .details__action {
+                ul {
+                    display: flex;
+                    align-items: center;
+
+
+                    li {
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-left: 17px;
+                        font-size: 17px;
+                        font-weight: 300;
+                        cursor: pointer;
+
+                        span {
+                            margin-left: 8px;
+                        }
+                    }
+
+                    li:hover {
+                        color: red;
+                    }
+                }
+            }
+        }
+
+        .details__bottom {
+            .details-left {
+                .details__about {
+                    p {
+                        font-size: 14px;
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-weight: 300;
+                    }
+                }
+            }
+
+            .details-right {
+                padding: 0px 0px 0px 17px;
+
+                .details__about {
+                    width: 310px;
+                    height: auto;
+                    border: 1px solid #4c88f9;
+                    background-color: #f6f7fa;
+                    border-radius: 7px;
+
+                    .details_price {
+                        font-size: 25px;
+                        font-weight: 700;
+
+                    }
+
+                    .details__shop {
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+
+                        img {
+                            width: 75px;
+                            height: 60px;
+                        }
+
+                        span {
+                            font-size: 16px;
+                            font-weight: 500;
+                            margin-left: 5px;
+                        }
+                    }
+
+                    .contact {
+                        button {
+                            width: 268px;
+                            height: 73px;
+                            background-color: green;
+                            color: white;
+                            border-radius: 5px;
+                            display: flex;
+                            flex-direction: column;
+
+                            span {
+                                font-size: 18px;
+                            }
+                        }
+                    }
+
+                    .details__comment {
+                        p {
+                            font-size: 14px;
+                            font-weight: 300px
+                        }
+
+                        span {
+                            font-size: 14px;
+                            font-weight: 300px;
+                            color: #212c3a;
+
+                        }
+                    }
+
+                    .details_shop {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        padding: 5px 0px
+
+                        span {
+                            font-size: 14px;
+                            font-weight: 300px;
+                            color: #212c3a;
+                        }
+
+                        button {
+                            width: 268px;
+                            height: 48px;
+                            background-color: rgb(54, 54, 202);
+                            color: white;
+                            border-radius: 5px;
+                            margin-bottom: 5px;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
