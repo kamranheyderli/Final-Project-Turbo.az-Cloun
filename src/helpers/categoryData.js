@@ -1,0 +1,38 @@
+export const CategoryData =  [ 
+    {
+        "id":1,
+        "category":"Bmw"
+    },
+    {
+        "id":2,
+        "category":"Mercedes"
+    },
+    {
+        "id":3,
+        "category":"Range Rover"
+    },
+    {
+        "id":4,
+        "category":"Chevrolet"
+    },
+    {
+        "id":5,
+        "category":"Ford"
+    },
+    {
+        "id":6,
+        "category":"Audi"
+    },
+    {
+        "id":7,
+        "category":"Lexus"
+    },
+    {
+        "id":8,
+        "category":"Toyoto"
+    },
+    {
+        "id":8,
+        "category":"Porsche"
+    },
+]

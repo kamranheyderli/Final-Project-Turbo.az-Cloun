@@ -6,6 +6,7 @@ import {
     AccordionBody,
 } from "@material-tailwind/react";
 
+
 // i18 next
 import { useTranslation } from 'react-i18next';
 import i18next from 'i18next';
@@ -45,7 +46,7 @@ export const SimpleAccordion = () => {
                 <AccordionHeader onClick={() => handleOpen(3)}>
                     {t("app_helper_accordion_questions3")}
                 </AccordionHeader>
-                <AccordionBody>
+                <AccordionBody className="AccordionBody" >
                     {t("app_helper_accordion_answer3")}
                 </AccordionBody>
             </Accordion>

@@ -12,7 +12,7 @@ export const SimpleSelect = () => {
     };
     return (
         <div>
-            <FormControl sx={{ width: "82px", height:50 }}>
+            <FormControl sx={{ width: "82px", height:50,background:"white" }}>
                 <InputLabel id="demo-simple-select-label">AZN</InputLabel>
                 <Select
                     sx={{   borderRadius: "7px" }}

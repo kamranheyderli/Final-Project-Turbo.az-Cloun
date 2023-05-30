@@ -33,7 +33,7 @@ export const navbarLogin = [
     {
         id: "2",
         name: "app_chosen",
-        url: "/",
+        url: "/favoritepage",
         icon: <AiFillHeart />,
     },
     {

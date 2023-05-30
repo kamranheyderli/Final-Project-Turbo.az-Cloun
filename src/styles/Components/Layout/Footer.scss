@@ -1,0 +1,106 @@
+.footer_wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    background-color: #f1f3f7;
+
+    .container {
+        width: 1010px;
+        margin: 0 auto;
+
+    }
+
+    .top_footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        height: 60px;
+        background-color: #f6f7fa;
+        border-bottom: 1px solid gray;
+
+        h3 {
+            font-size: 15px;
+            color: #212c3a;
+        }
+
+        ul {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            li {
+                margin-left: 20px;
+                color: rgb(76, 83, 107);
+
+                a {
+                    display: flex;
+                    align-items: center;
+
+                    i {
+                        font-size: 20px;
+                    }
+
+                    span {
+                        font-size: 15px;
+                    }
+                }
+
+                a:hover {
+                    color: red;
+                }
+
+            }
+        }
+    }
+
+    .mid_footer {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px 15px;
+        background-color: #f6f7fa;
+        font-size: 13px;
+        color: #8d94ad;
+
+        ul {
+            display: flex;
+            flex-direction: column;
+
+            li {
+                margin-bottom: 10px;
+               a:hover{
+                    color: red;
+                }
+            }
+
+        }
+    }
+
+    .bottom_footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #ca1016;
+        height: 60px;
+        font-size: 13px;
+        color: white;
+
+        .left_bottom_footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 390px;
+            padding-left: 10px;
+        }
+
+        .right_bottom_footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+    }
+
+
+
+
+}

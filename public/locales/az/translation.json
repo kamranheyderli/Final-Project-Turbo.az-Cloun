@@ -26,8 +26,21 @@
     "app_helper_accordion_questions2": "Elana necə düzəliş edim?",
     "app_helper_accordion_questions3": "Elanı necə yerləşdirim?",
     "app_helper_accordion_answer1": "Çox güman ki, siz elan yerləşdirmə Qaydalarından hər hansısa birinə və ya bir neçəsinə əməl etməmisiniz. Səbəb daha ətraflı şəkildə elanı yerləşdirərkən qeyd etdiyiniz email ünvanına göndərilib. Həmçinin elanın dərc olunmama səbəbi ilə saytın tam (desktop) versiyasında Şəxsi kabinetdəki “Mənim elanlarım” “İmtina olunmuş” bölməsində; saytın mobil versiyasında Şəxsi kabinetdəki “İmtina olunmuş” bölməsində; tətbiqdə isə Şəxsi kabinetdəki “İmtina olunmuş” bölməsində tanış ola bilərsiniz.",
-    "app_helper_accordion_answer2":"Şəxsi kabinetdə düzəliş üçün 1:Şəxsi kabinetə daxil olun.2:Saytın tam versiyasındasınızsa,“Mənim elanlarım” səhifəsini açın, mobil versiyada və ya tətbiqdəsinizsə, növbəti addıma keçin.3:Saytın tam və ya mobil versiyasında “Saytda” bölməsini, tətbiqdə isə “Hazırda saytda” bölməsini seçin.4:Düzəliş etmək istədiyiniz elanın aşağısında Düzəliş et düyməsini görəcəksiniz. Onu sıxın.5:Lazım olan düzəlişləri etdikdən sonra Elanı yenilə düyməsini sıxın.",
-    "app_helper_accordion_answer3":"Ekranın aşağısındakı Yeni elan düyməsini sıxın. Açılan siyahılarda təqdim etdiyiniz nəqliyyat vasitəsinin aid olduğu markanı və modeli seçin. Növbəti səhifədə xanaları dolduraraq nəqliyyat vasitəsi barədə məlumatları qeyd edin. Nəzərə alın ki, bu məlumatları potensial alıcılar oxuyacaq. Elanı Şəxsi kabinetinizdən yerləşdirirsinizsə, Əlaqə məlumatları hissəsində profiliniz üçün təsdiqlənmiş telefon nömrəsi müvafiq xanaya doldurulacaq. Əgər elanı Şəxsi kabinetə daxil olmadan yerləşdirirsinizsə, onun yoxlamaya göndərilməsi üçün Əlaqə məlumatları hissəsində qeyd etdiyiniz telefon nömrəsini təsdiqləməlisiniz. Demək olar ki, hazırdır! Sadəcə Elanı əlavə et düyməsini sıxmaq qalır: Şəxsi kabinetdən yerləşdirirsinizsə, elan dərhal yoxlamaya göndəriləcək; daxil olmamısınızsa, elan telefon nömrənizi təsdiqlədikdən sonra yoxlamaya göndəriləcək və bütün qaydalara əməl olunduğu təqdirdə dərc olunacaq. Yoxlama adətən bir neçə dəqiqə çəkir, lakin proses uzana da bilər. Ona görə də elanınızı nəticələrdə axtarmadan öncə onu “Saytda” (tətbiqdə “Hazırda saytda) bölməsində açın: əgər elan hələ də “Gözləmədə” bölməsindədirsə, deməli, istifadəçilər axtarışda hələ təklifinizi görmür."
-
+    "app_helper_accordion_answer2": "Şəxsi kabinetdə düzəliş üçün 1:Şəxsi kabinetə daxil olun.2:Saytın tam versiyasındasınızsa,“Mənim elanlarım” səhifəsini açın, mobil versiyada və ya tətbiqdəsinizsə, növbəti addıma keçin.3:Saytın tam və ya mobil versiyasında “Saytda” bölməsini, tətbiqdə isə “Hazırda saytda” bölməsini seçin.4:Düzəliş etmək istədiyiniz elanın aşağısında Düzəliş et düyməsini görəcəksiniz. Onu sıxın.5:Lazım olan düzəlişləri etdikdən sonra Elanı yenilə düyməsini sıxın.",
+    "app_helper_accordion_answer3": "Ekranın aşağısındakı Yeni elan düyməsini sıxın. Açılan siyahılarda təqdim etdiyiniz nəqliyyat vasitəsinin aid olduğu markanı və modeli seçin. Növbəti səhifədə xanaları dolduraraq nəqliyyat vasitəsi barədə məlumatları qeyd edin. Nəzərə alın ki, bu məlumatları potensial alıcılar oxuyacaq. Elanı Şəxsi kabinetinizdən yerləşdirirsinizsə, Əlaqə məlumatları hissəsində profiliniz üçün təsdiqlənmiş telefon nömrəsi müvafiq xanaya doldurulacaq. Əgər elanı Şəxsi kabinetə daxil olmadan yerləşdirirsinizsə, onun yoxlamaya göndərilməsi üçün Əlaqə məlumatları hissəsində qeyd etdiyiniz telefon nömrəsini təsdiqləməlisiniz. Demək olar ki, hazırdır! Sadəcə Elanı əlavə et düyməsini sıxmaq qalır: Şəxsi kabinetdən yerləşdirirsinizsə, elan dərhal yoxlamaya göndəriləcək; daxil olmamısınızsa, elan telefon nömrənizi təsdiqlədikdən sonra yoxlamaya göndəriləcək və bütün qaydalara əməl olunduğu təqdirdə dərc olunacaq. Yoxlama adətən bir neçə dəqiqə çəkir, lakin proses uzana da bilər. Ona görə də elanınızı nəticələrdə axtarmadan öncə onu “Saytda” (tətbiqdə “Hazırda saytda) bölməsində açın: əgər elan hələ də “Gözləmədə” bölməsindədirsə, deməli, istifadəçilər axtarışda hələ təklifinizi görmür.",
+    "app_input_marka": "Marka",
+    "app_input_model": "Model",
+    "app_input_all": "Hamısı",
+    "app_input_new": "Yeni",
+    "app_input_last": "Sürülmüş",
+    "app_input_city": "Şəhər",
+    "app_input_price": "Qiymət",
+    "app_input_kredit": "Kredit",
+    "app_input_barter": "Barter",
+    "app_input_ban": "Ban növü",
+    "app_input_years": "Il",
+    "app_new_elans": "Bu gun:",
+    "app_reset": "Sifirla",
+    "app_more_filters":"Daha çox filtr",
+    "app_search_button":"Elanları göstər"
 }
-
